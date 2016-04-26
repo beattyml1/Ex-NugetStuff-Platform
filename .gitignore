@@ -4,6 +4,7 @@
 # Net Health Specific
 src/
 NugetRepository/
+tmp/
 
 # User-specific files
 *.suo
