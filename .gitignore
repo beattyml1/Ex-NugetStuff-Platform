@@ -5,6 +5,10 @@
 src/
 NugetRepository/
 tmp/
+ProjectTemplates/
+TeamSettings/
+DevSettings/
+bin/ext/
 
 # User-specific files
 *.suo
